@@ -11,4 +11,5 @@ I build software with a bias toward clear systems and usable interfaces.
 - DSP
 
 Toronto, ON  
-[sqazi.sh](https://sqazi.sh) · [code@sqazi.sh](mailto:code@sqazi.sh) · `@metalmasteringengineer:matrix.org`
+[My Website](https://sqazi.sh) · [code@sqazi.sh](mailto:code@sqazi.sh) · `@metalmasteringengineer:matrix.org`
+[Mastering Website](https://www.iconoclastaud.io) · [Game Dev](https://www.gankmid.co) 
