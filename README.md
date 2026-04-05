@@ -1,15 +1,22 @@
 # Shahzeb Qazi
 
-I build software with a bias toward clear systems and usable interfaces.
+FP FOSS Audio Mastering
 
-## Working On
+## Areas of Interest
 
-- Functional programming
-- AI agent tooling
-- HCI / UX
-- Game development
+- Mixing and Mastering
 - DSP
+- Category Theory
+- Complex Analysis
+- AI Tooling
+- Agent Harness
+- HCI / UX Research
+- Game Development
 
-Toronto, ON  
-[My Website](https://sqazi.sh) · [code@sqazi.sh](mailto:code@sqazi.sh) · `@metalmasteringengineer:matrix.org`
-[Mastering Website](https://www.iconoclastaud.io) · [Game Dev](https://www.gankmid.co) 
+Toronto, ON 
+
+[My Website](https://sqazi.sh) · 
+[code@sqazi.sh](mailto:code@sqazi.sh) · 
+`@metalmasteringengineer:matrix.org`
+[Mastering Website](https://www.iconoclastaud.io) · 
+[Game Dev/Mastering](https://www.gankmid.co)
