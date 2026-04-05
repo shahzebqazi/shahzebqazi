@@ -13,10 +13,12 @@ FP FOSS Audio Mastering
 - HCI / UX Research
 - Game Development
 
-Toronto, ON 
+Toronto, ON
 
-[My Website](https://sqazi.sh) · 
-[code@sqazi.sh](mailto:code@sqazi.sh) · 
-`@metalmasteringengineer:matrix.org`
-[Mastering Website](https://www.iconoclastaud.io) · 
-[Game Dev/Mastering](https://www.gankmid.co)
+---
+
+Website: [sqazi.sh](https://sqazi.sh)  
+Email: [code@sqazi.sh](mailto:code@sqazi.sh)  
+Matrix: [@metalmasteringengineer:matrix.org](https://matrix.to/#/@metalmasteringengineer:matrix.org)  
+Mastering: [Iconoclast Audio](https://www.iconoclastaud.io)  
+Game Dev / Mastering: [Gankmid](https://www.gankmid.co)
