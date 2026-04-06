@@ -2,16 +2,15 @@
 
 FP FOSS Audio Mastering
 
-## Areas of Interest
-
-- Mixing and Mastering
-- DSP
-- Category Theory
-- Complex Analysis
-- AI Tooling
-- Agent Harness
-- HCI / UX Research
-- Game Development
+| - Areas of Interest |
+| - Mixing and Mastering |
+| - DSP |
+| - Category Theory |
+| - Complex Analysis |
+| - AI Tooling |
+| - Agent Harness |
+| - HCI / UX Research |
+| - Game Development |
 
 Toronto, ON
 
