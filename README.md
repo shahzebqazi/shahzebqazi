@@ -16,4 +16,4 @@ Based in Toronto, ON. From Srinagar, Kashmir.
 | - AI Tooling + Agent Harness | yuck its a sh!tshow, I primarily work with Cursor |
 | - HCI + UX Research | I am very interested in "hand-made feel". I have a hunch that feature extraction from "hand made feel" will be paramount for understanding ai agents |
 | - Systems + Hardware | Bleeding Edge Distros and Hardware. I am running CachyOS with Cosmic Desktop on an AMD Strix Halo Machine, in addition to my trust macbook pro |
-| - Game Development | [Gankmid Co. Studios](https://www.gankmid.co) |  
+| - Game Development | [Gankmid Co. Studios](https://gankmid.co) |  
