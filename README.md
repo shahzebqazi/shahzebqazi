@@ -4,7 +4,7 @@ Based in Toronto, ON. From Srinagar, Kashmir.
 | Development & OS | Gear & Audio | Persona & Socials |
 |---|---|---|
 | **Core Stack:** Haskell, xonsh, NixOS | **Hardware:** M3 Pro, Z13 Strix Halo, Zinwa Q25, Minisforum and Supermicro Servers | **Vibe:** Seafoam Green / Anti-Grift |
-| **Audio Workflow:** Ableton, Reaper, RX11 | **Professional Role:** FOSS Mastering Engineer | **Email:** code (at) sqazi (dot) sh |  
+| **Audio Workflow:** Ableton, Reaper, RX11 | **What do i do?:** Mastering Engineer | **Email:** code (at) sqazi (dot) sh |  
 | **What am I up to?:** No Good!! | [Matrix: @metalmasteringengineer](https://matrix.to/#/@metalmasteringengineer:matrix.org)) | [Mastodon: @willy@social.devilplan.com](https://social.devilplan.com/@willy) |
 | FOSS x FP | [Instagram:@kongposhmosh](https://www.instagram.com/kongposhmosh/) | Engineering Metal 24/7 |  
 
