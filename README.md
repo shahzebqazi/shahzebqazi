@@ -1,4 +1,6 @@
 # Willy Worst  
+Based in Toronto, ON. From Srinagar, Kashmir.  
+
 | Development & OS | Gear & Audio | Persona & Socials |
 |---|---|---|
 | **Core Stack:** Haskell, xonsh, NixOS | **Hardware:** M3 Pro, Z13 Halo, Zinwa, Servers | **Vibe:** Seafoam Green / Anti-Grift |
@@ -15,4 +17,3 @@
 | - HCI + UX Research | I am very interested in "hand-made feel". I have a hunch that feature extraction from "hand made feel" will be paramount for understanding ai agents |
 | - Systems + Hardware | Bleeding Edge Distros and Hardware. I am running CachyOS with Cosmic Desktop on an AMD Strix Halo Machine, in addition to my trust macbook pro |
 | - Game Development | [Gankmid Co. Studios](https://www.gankmid.co) |  
-Based in Toronto, ON. From Srinagar, Kashmir.
