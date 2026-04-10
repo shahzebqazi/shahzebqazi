@@ -1,6 +1,6 @@
 # Shahzeb Qazi
 
-FP FOSS Audio Mastering
+#FOSS Mastering Engineer and programmer. While my career goals are in the domain of music mostly, here are my current pursuits:
 
 | Areas of Interest | | [sqazi.sh](https://sqazi.sh)  |
 |---|---|---|
