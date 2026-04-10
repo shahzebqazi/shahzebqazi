@@ -14,9 +14,9 @@ FOSS Mastering Engineer and programmer. While my career goals are in the domain 
 Based in Toronto, ON. From Srinagar, Kashmir.
 
 Email: code (at) sqazi dot sh  
-Matrix: [@metalmasteringengineer:matrix.org](https://matrix.to/#/@metalmasteringengineer:matrix.org)  
-Mastodon: [@willy@social.devilplan.com](https://social.devilplan.com/@willy)  
-IG: [@kongposhmosh](https://www.instagram.com/kongposhmosh/)  
+[@metalmasteringengineer:matrix.org](https://matrix.to/#/@metalmasteringengineer:matrix.org) on Matrix  
+[@willy@social.devilplan.com](https://social.devilplan.com/@willy) on Mastodon  
+[@kongposhmosh](https://www.instagram.com/kongposhmosh/) on IG
 ---
 
 
