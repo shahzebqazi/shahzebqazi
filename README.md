@@ -6,6 +6,7 @@
 |---|---|---|
 | - Mixing and Mastering | | [Iconoclast Audio](https://www.iconoclastaud.io) |
 | - DSP | | [Iconoclast DSP](https://www.iconoclastaud.io) |
+| - DSP Pedals and Gear | | [My Store](https://reverb.com/shop/gearacquisitionsyndrome/) |
 | - Category Theory | | I am interested in symbolic reasoning ai, dimensionality reduction, cauchy sequences, hilbert spaces, dagger symmetries and studying higher level category theory in my spare time. |
 | - Complex Analysis | | i suck at math but working with audio, i have come to appreciate the wonders of imaginary numbers! |
 | - AI Tooling | | yuck its a sh!tshow |
