@@ -4,13 +4,14 @@ FP FOSS Audio Mastering
 
 | Areas of Interest | | [sqazi.sh](https://sqazi.sh)  |
 |---|---|---|
-| - Mixing and Mastering | | Mastering: [Iconoclast Audio](https://www.iconoclastaud.io)   |
-| - DSP | | |
-| - Category Theory | | |
-| - Complex Analysis | | |
-| - AI Tooling | | |
-| - Agent Harness | | |
-| - HCI / UX Research | | |
+| - Mixing and Mastering | | [Iconoclast Audio](https://www.iconoclastaud.io) |
+| - DSP | | [Iconoclast DSP](https://www.iconoclastaud.io) |
+| - Category Theory | | I am interested in symbolic reasoning ai, dimentionality reduction |
+| - Complex Analysis | | i suck at math but working with audio, i have come to appreciate the wonders of imaginary numbers! |
+| - AI Tooling | | yuck its a sh!tshow |
+| - Agent Harness | | I primarily work with Cursor |
+| - HCI / UX Research | | I am very interested in "hand-made feel" |
+| - Linux Systems | | Bleeding Edge Distros and Hardware |
 | - Game Development | | [Gankmid Co. Studios](https://www.gankmid.co) |
 
 Toronto, ON
