@@ -1,6 +1,6 @@
 # Willy Worst  
 | Development & OS | Gear & Audio | Persona & Socials |
-| :--- | :--- | :--- |
+|---|---|---|
 | **Core Stack:** Haskell, xonsh, NixOS | **Hardware:** M3 Pro, Z13 Halo, Zinwa, Servers | **Vibe:** Seafoam Green / Anti-Grift |
 | **Audio Workflow:** Ableton, Reaper, RX11 | **Professional Role:** FOSS Mastering Engineer | **Email:** code@sqazi.sh |  
 | **Career Focus:** Music Production | **Matrix:** @metalmasteringengineer | **Mastodon:** @willy@social.devilplan.com |  
