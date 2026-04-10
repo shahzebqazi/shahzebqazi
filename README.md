@@ -11,7 +11,7 @@
 | - AI Tooling | | yuck its a sh!tshow |
 | - Agent Harness | | I primarily work with Cursor |
 | - HCI / UX Research | | I am very interested in "hand-made feel". I have a hunch that feature extraction from "hand made feel" will be paramount for understanding ai agents |
-| - Linux Systems | | Bleeding Edge Distros and Hardware |
+| - Systems and Hardware | | Bleeding Edge Distros and Hardware. I am running CachyOS with Cosmic Desktop on an AMD Strix Halo Machine, in addition to my trust macbook pro |
 | - Game Development | | [Gankmid Co. Studios](https://www.gankmid.co) |
 
 Toronto, ON
