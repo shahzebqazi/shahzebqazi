@@ -1,6 +1,6 @@
 # Shahzeb Qazi
 
-#FOSS Mastering Engineer and programmer. While my career goals are in the domain of music mostly, here are my current pursuits:
+FOSS Mastering Engineer and programmer. While my career goals are in the domain of music mostly, here are my current pursuits:
 
 | Areas of Interest | [sqazi.sh](https://sqazi.sh)  |
 |---|---|
@@ -11,7 +11,7 @@
 | - Systems + Hardware | Bleeding Edge Distros and Hardware. I am running CachyOS with Cosmic Desktop on an AMD Strix Halo Machine, in addition to my trust macbook pro |
 | - Game Development | [Gankmid Co. Studios](https://www.gankmid.co) |
 
-Toronto, ON
+Based in Toronto, ON. From Srinagar, Kashmir.
 
 Email: [code@sqazi.sh](mailto:code@sqazi.sh)  
 Matrix: [@metalmasteringengineer:matrix.org](https://matrix.to/#/@metalmasteringengineer:matrix.org)  
