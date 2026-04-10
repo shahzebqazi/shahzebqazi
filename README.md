@@ -10,7 +10,7 @@
 | - Complex Analysis | | i suck at math but working with audio, i have come to appreciate the wonders of imaginary numbers! |
 | - AI Tooling | | yuck its a sh!tshow |
 | - Agent Harness | | I primarily work with Cursor |
-| - HCI / UX Research | | I am very interested in "hand-made feel" |
+| - HCI / UX Research | | I am very interested in "hand-made feel". I have a hunch that feature extraction from "hand made feel" will be paramount for understanding ai agents |
 | - Linux Systems | | Bleeding Edge Distros and Hardware |
 | - Game Development | | [Gankmid Co. Studios](https://www.gankmid.co) |
 
