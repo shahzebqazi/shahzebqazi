@@ -11,7 +11,7 @@ FP FOSS Audio Mastering
 | - AI Tooling | | |
 | - Agent Harness | | |
 | - HCI / UX Research | | |
-| - Game Development | | [Gankmid co.](https://www.gankmid.co) |
+| - Game Development | | [Gankmid Co. Studios](https://www.gankmid.co) |
 
 Toronto, ON
 
