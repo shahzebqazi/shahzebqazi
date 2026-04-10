@@ -2,8 +2,8 @@
 | Development & OS | Gear & Audio | Persona & Socials |
 | :--- | :--- | :--- |
 | **Core Stack:** Haskell, xonsh, NixOS | **Hardware:** M3 Pro, Z13 Halo, Zinwa, Servers | **Vibe:** Seafoam Green / Anti-Grift |
-| **Audio Workflow:** Ableton, Reaper, RX11 | **Professional Role:** FOSS Mastering Engineer | **Email:** code@sqazi.sh |
-| **Career Focus:** Music Production | **Matrix:** @metalmasteringengineer | **Mastodon:** @willy@social.devilplan.com |
+| **Audio Workflow:** Ableton, Reaper, RX11 | **Professional Role:** FOSS Mastering Engineer | **Email:** code@sqazi.sh |  
+| **Career Focus:** Music Production | **Matrix:** @metalmasteringengineer | **Mastodon:** @willy@social.devilplan.com |  
 | **Programming:** FOSS Development | **Instagram:** @kongposhmosh | **Identity:** Engineer & Programmer |  
 FOSS Mastering Engineer and programmer. While my career goals are in the domain of music mostly, here are my current pursuits:  
 | Areas of Interest | https://sqazi.sh/links/  |  
