@@ -1,7 +1,7 @@
 # Willy Worst  
 Based in Toronto, ON. From Srinagar, Kashmir.  
 
-| Development & OS | Gear & Audio | Persona & Socials |
+| | | |
 |---|---|---|
 | **Core Stack:** Haskell, xonsh, NixOS | **Hardware:** M3 Pro, Z13 Strix Halo, Zinwa Q25, Minisforum and Supermicro Servers | **Vibe:** Seafoam Green / Anti-Grift |
 | **Audio Workflow:** Ableton, Reaper, RX11 | **What do i do?:** Mastering Engineer | **Email:** code (at) sqazi (dot) sh |  
