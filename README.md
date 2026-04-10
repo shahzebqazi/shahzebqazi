@@ -1,4 +1,12 @@
-# Shahzeb Qazi
+# Willy Worst
+
+fav languge: Haskell
+fav linux shell: xonsh
+fav distro: NixOS
+fav color: seafoam green
+my machines: M3 Pro macbook pro 14, Asus Z13 Strix Halo, Zinwa Q25, Minisforum and Supermicro Servers
+Audio Workflow: Ableton Live 12, Reaper, RX11 Suite
+dislikes: grifter ai crypto tech bros
 
 FOSS Mastering Engineer and programmer. While my career goals are in the domain of music mostly, here are my current pursuits:
 
