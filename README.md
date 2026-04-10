@@ -2,7 +2,7 @@
 
 FOSS Mastering Engineer and programmer. While my career goals are in the domain of music mostly, here are my current pursuits:
 
-| Areas of Interest | [sqazi.sh](https://sqazi.sh)  |
+| Areas of Interest | https://sqazi.sh/links/  |
 |---|---|
 | - DSP + Mixing and Mastering | [Iconoclast Audio](https://www.iconoclastaud.io) |
 | - Category Theory & Complex Analysis | I am interested in symbolic reasoning ai, Complex Valued Neural Netowrks (CVNNs), Dimensionality Reduction, Cauchy Sequences, Hilbert Spaces, Dagger Symmetry and studying higher level Category Theory in my spare time. I suck at math but working with audio, i have come to appreciate the wonders of imaginary numbers! |
@@ -13,7 +13,7 @@ FOSS Mastering Engineer and programmer. While my career goals are in the domain 
 
 Based in Toronto, ON. From Srinagar, Kashmir.
 
-Email: [code@sqazi.sh](mailto:code@sqazi.sh)  
+Email: [code@sqazi.sh](mailto:code@sqazi.sh)
 Matrix: [@metalmasteringengineer:matrix.org](https://matrix.to/#/@metalmasteringengineer:matrix.org)  
 Mastodon: [@willy@social.devilplan.com](https://social.devilplan.com/@willy)  
 IG: [@kongposhmosh](https://www.instagram.com/kongposhmosh/)  
