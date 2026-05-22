@@ -10,16 +10,16 @@ Mastering engineer · audio DSP · agent tooling — [sqazi.sh](https://sqazi.sh
 | **What am I up to?:** No Good!! | [Matrix: @metalmasteringengineer](https://matrix.to/#/@metalmasteringengineer:matrix.org) | [Mastodon: @willy@social.devilplan.com](https://social.devilplan.com/@willy) |
 | FOSS x FP | [Instagram:@kongposhmosh](https://www.instagram.com/kongposhmosh/) | Engineering Metal 24/7 |  
 
-## Flagship work
+## Flagship work (pinned)
 
 | Project | What it is |
 |---|---|
-| [Song Pit](https://shahzebqazi.github.io/ampache-plugin-song-pit/) | Ampache plugin + magic-link upload SPA |
-| [MHN agent memory](https://shahzebqazi.github.io/mhn-ai-agent-memory/) | Hopfield-network memory MCP for Cursor / agents |
-| [hopfield-networks](https://shahzebqazi.github.io/hopfield-networks/) | Haskell + Three.js energy landscape demo |
-| [pa2-car-plugin](https://shahzebqazi.github.io/pa2-car-plugin/) | Power Ampache 2 × Android Auto UX research |
-| [devops-for-the-horde](https://sqazi.sh/devops-for-the-horde/) | Mac bootstrap hub, Cursor-first workflows |
-| [kashmiri-language-poetry](https://shahzebqazi.github.io/kashmiri-language-poetry/) | Bilingual poetry archive |
+| [cursor-agents](https://github.com/shahzebqazi/cursor-agents) | Mastodon agent + MPD music agent |
+| [my-mac-config](https://github.com/shahzebqazi/my-mac-config) | Mac bootstrap hub (Horde art) |
+| [iconoclast-vst-ui](https://shahzebqazi.github.io/iconoclast-vst-ui/) | VST plugin UI experiments |
+| [pa2-car-plugin](https://shahzebqazi.github.io/pa2-car-plugin/) | Power Ampache 2 × Android Auto UX |
+| [zinwa-q25-keyboard](https://github.com/shahzebqazi/zinwa-q25-keyboard) | Q25 keyboard firmware fork |
+| [mhn-ai-agent-memory](https://shahzebqazi.github.io/mhn-ai-agent-memory/) | Toy Hopfield agent memory (MCP) |
 
 Full curated list: [sqazi.sh/projects](https://sqazi.sh/content.html?page=projects)
 
