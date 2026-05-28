@@ -14,7 +14,7 @@
 | | |
 |---|---|
 | **GitHub** | [@shahzebqazi](https://github.com/shahzebqazi) |
-| **LinkedIn** | [/in/willyworst](https://www.linkedin.com/in/willyworst) — live slug may still be `lambdaqazi` until migration |
+| **LinkedIn** | [/in/lambdaqazi](https://www.linkedin.com/in/willyworst) |
 
 ## Selected projects
 
