@@ -12,7 +12,3 @@
 **Audio (clients):** [Iconoclast Audio](https://www.iconoclastaud.io/) — studio CV on that site, not here.
 
 Featured code is pinned below on GitHub. The broader portfolio lives on [sqazi.sh/projects](https://sqazi.sh/content.html?page=projects).
-
-| | |
-|---|---|
-| **LinkedIn** | [/in/lambdaqazi](https://www.linkedin.com/in/lambdaqazi) |
