@@ -12,3 +12,5 @@
 **Audio (clients):** [Iconoclast Audio](https://www.iconoclastaud.io/) — studio CV on that site, not here.
 
 Featured code is pinned below on GitHub. The broader portfolio lives on [sqazi.sh/projects](https://sqazi.sh/content.html?page=projects).
+
+Build logs on [Matrix](https://matrix.to/#/@metalmasteringengineer:matrix.org) · [shahzeb.me](https://shahzeb.me/) · [Instagram](https://www.instagram.com/kongposhmosh/)
